@@ -1,0 +1,30 @@
+SCUT 国际校区 · 本目录资料来源
+生成日期：2026-11-21
+
+本目录内容依据以下资料整理，完整引用见 ../../00-元数据/sources.md
+
+[S02] 南方都市报：华工新生报到（2022-09-05，学校官网转载）
+https://www2.scut.edu.cn/gzic/2022/0905/c30281a478651/page.htm
+
+[S03] @2026级新生，广州国际校区新手村通关手册（网易）
+https://c.m.163.com/news/a/L67C1QB20516N6F2.html
+
+[S04] 中国发展网：华南理工大学广州国际校区既“国际”又“岭南”
+https://m.chinadevelopment.com.cn/?s=/Index/article/id/1796494/f/tt.html
+
+[S09] 腾讯新闻：华工广州国际校区二期工程惊艳上新
+https://so.html5.qq.com/page/real/search_news?docid=70000021_6466319500130152&faker=1
+
+[S10] 华工考研论坛：【国际校区】一镜到底云游华南理工大学校园（第三方论坛帖，仅作线索，未经官方确认）
+https://www.huagongkaoyan.com/forum.php?action=printable&mod=viewthread&tid=7876
+
+[S15] 微信公众号「华南理工大学研究生」：权益小贴士｜揭秘华工宝藏地！广州国际校区图书馆达人修炼秘籍（资料来源：华南理工广州国际校区、华南理工大学图书馆）
+http://mp.weixin.qq.com/s?__biz=MzA3NjA4MjIwMA==&mid=2651135269&idx=1&sn=b8b22e2199f7c88b11d5b383af250b90&chksm=851a095add4799220f05e3bd04b583d32abcb9a1ed51fed0b6149c0769cc5dbeb64f765a8cbd
+
+[S16] 微信公众号「峻德书院」：图书馆的宝藏空间——研修室和静音仓的预约指南
+http://mp.weixin.qq.com/s?__biz=Mzk0MDEyMjY4OQ==&mid=2247507283&idx=1&sn=a1daf6c3f11f8c7c4d08159b21f48d35&chksm=c3bfc8d2db19d5a9b34a17164823c24fcf50f74f595b615a820d58272f13257e78ff99fede43
+
+[S49] 数读 2025｜华工图书馆年度服务数据出炉，邀你共启书香答卷（华南理工大学图书馆公众号，微信号 scutlib）
+http://mp.weixin.qq.com/s?__biz=MzU1ODUzNjk3Mw==&mid=2247525234&idx=1&sn=c9f4552c2b4d44d90e2f57cf5d8e3ccf
+
+引用方式说明：正文中的事实可回溯到上述 [Sxx] 编号；如链接失效，请以 sources.md 中的条目为准。

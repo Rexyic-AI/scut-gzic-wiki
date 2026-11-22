@@ -1,0 +1,5 @@
+# from,to,type,layer,note,source,status
+# type 取值：走廊 / 门 / 楼梯 / 电梯 / 连廊 / 桥 / 出口
+# layer 取值：同层 / 跨层 / 跨楼 / 跨街区
+# 端点写法与楼层页 id 一致（如 D5f-L2）；街区级关系直接写街区码（如 D5）
+# 示例（待替换）：D5f-L2,D5d-L2,连廊,跨楼,二层连廊，双层结构,[P01],partial

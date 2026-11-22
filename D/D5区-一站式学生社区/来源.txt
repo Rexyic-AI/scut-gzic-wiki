@@ -1,0 +1,30 @@
+SCUT 国际校区 · 本目录资料来源
+生成日期：2026-11-21
+
+本目录内容依据以下资料整理，完整引用见 ../../00-元数据/sources.md
+
+[S02] 南方都市报：华工新生报到（2022-09-05，学校官网转载）
+https://www2.scut.edu.cn/gzic/2022/0905/c30281a478651/page.htm
+
+[S03] @2026级新生，广州国际校区新手村通关手册（网易）
+https://c.m.163.com/news/a/L67C1QB20516N6F2.html
+
+[S04] 中国发展网：华南理工大学广州国际校区既“国际”又“岭南”
+https://m.chinadevelopment.com.cn/?s=/Index/article/id/1796494/f/tt.html
+
+[S06] 华南理工大学校园无线热点分布清单（2023-12-14）
+https://web.scut.edu.cn/2023/1214/c15298a530435/page.htm
+
+[S10] 华工考研论坛：【国际校区】一镜到底云游华南理工大学校园（第三方论坛帖，仅作线索，未经官方确认）
+https://www.huagongkaoyan.com/forum.php?action=printable&mod=viewthread&tid=7876
+
+[S14] 华南理工大学广州国际校区校园导览图（官方平面图，本地副本 d41aff90…jpg，2026-11-21 转录）
+http://map.scut.edu.cn/login_gj.html
+
+[S46] 2026 级新生宝典（第二期）衣食住行 玩转校园（华南理工大学峻德书院公众号）
+http://mp.weixin.qq.com/s?__biz=Mzk0MDEyMjY4OQ==&mid=2247516963&idx=1&sn=4b623567430e004ce6e812cd0168d43f
+
+[S47] “新”系青年｜GZIC 实用锦囊妙计，速速收藏（华南理工广州国际校区公众号，校区综合事务办公室）
+http://mp.weixin.qq.com/s?__biz=MzUyODYzNTcwOQ==&mid=2247566714&idx=1&sn=3140149a62e18da7c1ff92c4e0e8e978
+
+引用方式说明：正文中的事实可回溯到上述 [Sxx] 编号；如链接失效，请以 sources.md 中的条目为准。

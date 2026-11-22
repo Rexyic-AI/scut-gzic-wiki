@@ -1,0 +1,38 @@
+# 许可 / License
+
+本库中的**文字整理内容**（Markdown 文件、CSV 表、目录结构与编排）采用：
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**
+（知识共享 署名—非商业性使用—相同方式共享 4.0 国际）
+
+协议全文：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans
+摘要（人话版）：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans
+
+## 你可以
+
+- **转载**：复制到班级群、社团手册、新生资料包、个人博客。
+- **改编**：删减、重组、补充、翻译、做成网页或 App。
+- **商用以外的一切非商业用途**：学校社团、公益项目、课程作业。
+
+## 你必须
+
+- **署名（BY）**：注明来源为本仓库链接，并说明是否作过修改。不要暗示作者为你背书。
+- **相同方式共享（SA）**：改编后的作品必须以同一协议（或兼容协议）发布，不能改成“版权所有，保留一切权利”。
+- **非商业（NC）**：不得用于售卖、付费资料包、商业培训、引流变现。
+
+## 不在本协议范围内
+
+| 内容 | 权利归属 |
+|---|---|
+| 引用的新闻、公告、公众号文章中的事实与原文表述 | 原作者／原发布机构 |
+| 华南理工大学的名称、校徽、视觉标识 | 华南理工大学（本库**不使用**校徽与视觉标识） |
+| 建筑摄影、平面图、疏散图等图像原件 | 原权利人（本库不收录原件，只收录文字转录） |
+| 第三方数据（地图、导览图） | 原权利人（本库仅转录信息，不转载图像） |
+
+## 免责
+
+学生自发整理，**非学校官方发布**，不代表学校立场。内容以“可核验”为目标，但可能存在滞后与错漏：涉及办事流程、时间安排、场所开放的，请以学校与各院系官方通知为准。发现错误请提 issue。
+
+---
+
+*This work is licensed under CC BY-NC-SA 4.0. You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.*
