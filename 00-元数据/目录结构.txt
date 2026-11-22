@@ -1,6 +1,6 @@
 SCUT 国际校区百科全书 · 目录快照
 生成日期：2026-11-21
-共 523 个文件
+共 560 个文件
 
 SCUT国际校区百科全全书/
 .gitattributes
@@ -57,6 +57,8 @@ llms.txt
     [D] 07/
       584416e7b29e23b752013a1e7ef6d4641d12d5
       afde19f0603ee256c1bfa3e229245dacdb273d
+    [D] 08/
+      24605fb331f00aca14c3a26fa54ac850654e5f
     [D] 0a/
       6dac5dc9ebe7a27cba3b83bed780578cbae962
       bd080ee4ae5494f492e48b51fb8fdd88abf093
@@ -64,8 +66,10 @@ llms.txt
       454f67128bbf655feea7197f1996d4506d1269
       7f119ceeb2ba72fff9eac3aab56fa383fead7e
     [D] 0d/
+      0550a5e86905abb2439dfcce08143b532e4038
       ea7e20e90c03fe8de4301167d0f13b8cbd3f69
     [D] 0e/
+      84feb59f4c288de69755aa206b7e0fe6d6e9dd
       c8e7d1218d88f2db0442c51af2b4c1db2a2be9
     [D] 0f/
       795a9bc3dddbb151f2424bc31e38f8d9ea495d
@@ -95,11 +99,13 @@ llms.txt
     [D] 1a/
       8f31830f41a0e2387363777492592770dbd1cd
       a60329ce5486c55248c9a1316dca0bbfaba955
+      c89dcbc89a75b91f7c51ad8b24b72a2a473d0d
     [D] 1b/
       87baa1493c2b638922f5cae927cf5b490cc737
       d230f876624866c8246b4863f53867586a0345
     [D] 1c/
       d058c908acf7c6135606a18517a7829d9bfe40
+      da761403dde7988c2c011c56a3e4a76b37ee27
     [D] 1d/
       6ccfc1db50190ecccf4c0eb7a9641ec49c4d30
       ee49c858cb41b17deb4c806a4ff0cff0e8b7f4
@@ -112,6 +118,10 @@ llms.txt
       a06ee6e9a24d61daa07ab8b2a1dcaab6e2dcec
       c8cfc1209ec47987e5f715b1daf232d95a9a90
       fb1c9ce49f7e6e3d846b11b5b7c2aa4b052363
+    [D] 20/
+      bd0a35e06454bf3f5fa126523884857e458c91
+    [D] 21/
+      6ee9165884308fa78e99dfc9e69b550c2c0f16
     [D] 22/
       6c4e56b3a0b6d27c99d8bd6f927122bdc2bfce
     [D] 23/
@@ -127,20 +137,25 @@ llms.txt
       f8b58fc847f409a58140486ad7851d5dc5245d
     [D] 27/
       0b90dc9f3a29ab52347fc3c7e2b4f545f5e72a
+      a0cbe53ece8b91354fa7ec903b1ce6ca9ecbee
     [D] 28/
       c63d170808d5a8f11c25726891fe7b1d6bcd55
       d9754566d73b63123b3e68444d97db23466d5d
     [D] 2a/
       6a5a5e9a4f7c016adb1bae1b88b4c5b0f9a514
       9fa02a0fe5e9ebfcd274c4bb2c1ec529533337
+      f3a946110f5843d1be1afcec96fa3fce90a86d
     [D] 2b/
       664c03ff345edd7850c2eb09b53b6b6a1066fb
     [D] 2e/
       464f41e2fd3e7c1f1bf314ad1aa31497bdb3f8
       6f78a84da63264122f0c6ecb2c79a24e3f1721
+      82130540fd649453882c2d883d4ab551db0eec
     [D] 2f/
       0aff2ab69b9de56be715e19ef26eed8274e2c9
       4b1a9e340ba81ca84e4c3b7f9cb9de434bd25d
+    [D] 31/
+      d957ecf057431d64da86cb2f2b9f72e2e5213e
     [D] 32/
       26ea9d725cd2601a7a6ce14a7aae643f0d846a
       7a5fda017d9568acb6531c529d762111168769
@@ -159,6 +174,7 @@ llms.txt
     [D] 39/
       ba3b55b69065a1a43d32dee67b7211800f810c
       bbcbd7c6b48d14f7bc2e798870514b8c432209
+      c9af0a9e4a7a8c556f7d3287db06f45d5c2df8
     [D] 3a/
       23a054e9a5132216f6f81f55731a1f8154ce36
       36e65daf5cdf34d82ea96ef0ded05f16a6c877
@@ -183,6 +199,8 @@ llms.txt
     [D] 48/
       6f28a9bc6a56e3e925a7ed8e90eca79ee8285a
       9159cd5f7853c136e57b96daf3b0e80b099a7b
+    [D] 4a/
+      77c9d3acd80c63ec173ada298742a404a7a298
     [D] 4c/
       7b81030af306bdb35a9c05b61df1e461ae2840
     [D] 4e/
@@ -198,6 +216,7 @@ llms.txt
     [D] 55/
       7d29c40cf1cdb2870063fd27db0f05708d6141
       c9d20e032675e09549451dad5de6d7c71269a1
+      db9f330f99e752999fad17cb5235974169c387
     [D] 56/
       069bf8acda19c84d538e9c191fe98e82052110
       5e780f2b155a666ea252bace2b38de12edbb9a
@@ -220,11 +239,16 @@ llms.txt
       6804ab605ce17c6c79eae7324847f68949cb2a
       bbe2a5a18a74ceb0b84f53e2817aa275a99a8a
     [D] 60/
+      4cb8be70d0a41b8d917360bb892fd2b30863bd
       7101bb7e4f4d831b1d16b56207a2b3ded29ecf
     [D] 62/
+      c055d76dea446c90367ca562993f0bdb1b7be7
       cf5e70081ababb529c66f13e8a94c0c18a240a
+    [D] 63/
+      f1c1baacf1aa30f5f7bd6c5e503f87d58ddeb4
     [D] 65/
       0d32fc1fc8d2a42c721558bbba9ca74a8f6c8d
+      72d19667e0b1d0ee2b8b28e428922f61a1dc7b
     [D] 66/
       008fd81435433e5f79145d9212fbb48334c8f5
       bf967029c75bb1388e1244f8bd44e3172b10b1
@@ -238,6 +262,8 @@ llms.txt
     [D] 6a/
       af2a5d0d88b34c068b258897a60217c6850de1
       b4d657bd90f35229a4c902b2ac44d07f524a82
+    [D] 6b/
+      7be4cb244da9cfb14c4d2f5c9d8f889cbd5d61
     [D] 6c/
       d60784bcb145e6ee7bcd1ef9cc9f3df0e29675
     [D] 6e/
@@ -294,8 +320,11 @@ llms.txt
       623512ba98e3e90dfe5c08158d1ec243254882
       a4278af807f663b0ca8a8311e13979fba066f6
       dc6f89021dce1f0b31e384a9fa61f85bbe77fc
+    [D] 85/
+      e5488fcf0d2d6e13f6422ccd48fd8067347ab7
     [D] 86/
       05a911e30a8691f8297c025c7a1d6e35c58fa5
+      6f51541ea3d0d5135f7c79dd6289b9115caa4a
     [D] 87/
       96cf4f9c94fb19d02b056ba73ef3274ec05f57
       a38fb63b98348af7b6993cb55048e41ebedcc1
@@ -309,6 +338,9 @@ llms.txt
       559081721b41d9c9fb7fd64df94e34c3c3ca7e
     [D] 8a/
       28c9bcb9c544fef04ff0145195848f293bea58
+      bba6fc17e3b664647365a3e23236250b84457b
+    [D] 8b/
+      3bcdcffcfa2201a8cd118097d197483895d2bd
     [D] 8d/
       91f6086aca84959350765251736042cdb20624
     [D] 8e/
@@ -333,6 +365,7 @@ llms.txt
     [D] 96/
       47d6347530c2f4ed8d15a30ec30b5d1e8dd0cb
     [D] 97/
+      0c101f8e01897ab6b5f6796e4cfca4bf31f433
       796280d877400674051ade4ee0676693521f0c
     [D] 98/
       02339a37b3ddc2a581aee28b4d7ae6dffff612
@@ -342,6 +375,7 @@ llms.txt
       7c22929b7625aa6aab76c8a23d758967c137bd
     [D] 9b/
       ca2c8c9b0df2f124a442e6d4eb019ccbe557f6
+      f9548c282d80a4de14d4932d2ad46aa5c79326
     [D] 9c/
       2c8a29c9cb793bc443ec1c5bd68c0f06953ef4
       e55a529955620b1f5a7d6239313cfd28dda9c7
@@ -361,6 +395,7 @@ llms.txt
       f463187f0b66f1fdbe0ae3de783e9dffc572bd
     [D] a4/
       37364e1e0e801cde07da5437b790ba78478554
+      d1855fec8085fd6a6f1e5e8cd7fa11fb76d841
     [D] a5/
       f63cc3ed12f43727e67d5a49019f8c48132df1
       fad19d895735de3a45bb45ab143bfe7123c126
@@ -376,6 +411,7 @@ llms.txt
     [D] ac/
       880468ef5b6f95dbaf0ba42c64c114342cb58f
     [D] ae/
+      535841ec6ed98d2141e2501bdf9b5e4a46ab09
       5c049bd59f4e0ed15703bbcbbacd006a372602
     [D] af/
       9f7c05b72c9020cdebcb37d27244ed8fb83571
@@ -398,6 +434,8 @@ llms.txt
       7ebfd97e202dc9c56a8feb204c8c0d95f024d4
     [D] bd/
       dcb74f86fb45eadc343a4223c5a48d2fbf9b9a
+    [D] c0/
+      d141e96d3ec8a2d16dda04240a6344920f83d4
     [D] c1/
       c69cf98428732d11f05cedf3202e5ec37b48b7
     [D] c2/
@@ -408,6 +446,7 @@ llms.txt
       a4e83ec656976c430071c63dc7da6cc724c8c4
     [D] c5/
       2023cd4298bde09775a7117672b50ea5ec6f16
+      520c6a71e55162113ca794c5b084932e791802
       63c7d23886291c5b38d5b4a5d0b8998685e8b3
       7f98f4d352b87d7fae3d877f6c6b1f52817a1e
       bb92c2752bba29cbfe19631f1d63a38d99d058
@@ -419,6 +458,7 @@ llms.txt
     [D] ca/
       a5009385a3812e301bfa39a26366c9dfdb62a2
     [D] cb/
+      771fad50c1a786597ad43238453e5ceffdca40
       7ba57fb531baeefdffe95361112630c6ae0c5e
       e7f94d2bd61845711c6623643a9c1e8d3a347b
     [D] cc/
@@ -450,6 +490,7 @@ llms.txt
       52411c4e8f6ff672ec50a5d0f919e90d3865d8
       ae8c491f48f91387680f454cc46caa4687746e
     [D] dc/
+      4af85eecc655ac83f58212b2da10e07d9687d1
       daca2e22409aadc242be585cf54d508f06c752
     [D] dd/
       666e11be9e948ebffc5c50686f5ee93dcd2a71
@@ -458,7 +499,10 @@ llms.txt
     [D] df/
       72cb1b06027fe149dd14d5a7976449522f5e22
       a568ba0bfc130edb021cfae7a4c85df94b14ff
+    [D] e1/
+      51eab5276df0e6f1597510922b186265a22a8c
     [D] e2/
+      dbe605febd5cb78eebf107cc11c95f519a6644
       fc2359b8077c8b61856060e0b40fe67821d83a
     [D] e3/
       c0f4f9ea40a18869f1219bd455f3a390c5c7ff
@@ -466,6 +510,8 @@ llms.txt
       291ab435fbe410551b42ffef4df7bb11c284f1
       593e492759a4117e4057c2f718dc2b2c1eba2d
       7bb1977443f425f6873c974d45d623830c50f3
+    [D] e5/
+      a59a2a3be001a57fcea3fac29f9f3f2cc537cb
     [D] e6/
       56cc3bcc89d9dab70722e5f63f81e8434f3831
       d65c73d89c7982e9a5e20f88754bf4ab802588
@@ -478,6 +524,7 @@ llms.txt
       44039bb1ef15d145cfe1713be0ce59d9c08c5e
     [D] ea/
       128d50f4244996c5654aba85d4b8c008a0152a
+      eff636c34abef6a478a5e1b857c20eccf79a1b
     [D] eb/
       48a2badcfd7bd80d93767ef7e7364ccaf2e347
     [D] ed/
@@ -488,9 +535,12 @@ llms.txt
     [D] ef/
       a406b8920bf976b306d1d5abcb7766ce0590d6
       e13d2ed18c3fb64e9703d86985cc33066c78b5
+    [D] f1/
+      c6e56e3ac3df9ad94552d381291dc985f0cc42
     [D] f2/
       3eb630477864ebed8a6e8eecfe6264944957c2
     [D] f3/
+      23a58e2ccb183a3d75377f8186a776d21c2cba
       61a3d9e082e94dcdefaa05ce89233f64527dae
       a53331ec83b3c389471f036f9211be36447f66
     [D] f4/
